@@ -2,7 +2,7 @@
 
 This is implementation of some Reinforcement learning Algorithms on seven random walk environment :
 
-(a)Q lwarning
+(a)Q learning
 
 (b)Double Q Learning
 
