@@ -14,6 +14,16 @@ This is implementation of some Reinforcement learning Algorithms on seven random
 ![Screenshot (2)](https://user-images.githubusercontent.com/87232965/138672395-0e191c3a-720d-457c-abd0-d0644e784de7.png)
 
 
+action ∈ {LEFT , RIGHT}
+
+states ∈ [0,8]
+
+terminal states ∈ {0,8}
+
+reward ∈ {0,1}
+
+
+
 Probability Table (P{s'|s,a})
 
 |               |        s      | s+1   |  s-1  |
