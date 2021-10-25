@@ -6,11 +6,12 @@ This is implementation of some Reinforcement learning Algorithms on seven random
 
 
 Probability Table (P{s'|s,a})
- 
-      |               |         s     | s+1   |  s-1  |
-      | ------------- |:-------------:| -----:| -----:|
-      | LEFT          | 0.33          | 0.16  |  0.5  |
-      | RIGHT         | 0.33          |  0.5  |  0.16 |
+
+|               |         s     | s+1   |  s-1  |
+| ------------- |:-------------:| -----:| -----:|
+| LEFT          | 0.33          | 0.16  |  0.5  |
+| RIGHT         | 0.33          |  0.5  |  0.16 |
+
 
 
 
